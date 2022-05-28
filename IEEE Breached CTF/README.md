@@ -1,5 +1,7 @@
 # Hi guys,
 
+A helpful playlist : https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN
+
 I participated in this contest but unfortunately could clear only the first round.
 
 I solved 9/10 questions and here are some of the questions i solved.
