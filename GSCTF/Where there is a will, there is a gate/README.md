@@ -1,0 +1,12 @@
+- So much stuff about TF, FT being the only correct answer and a hint about some cryptography being implemented. What could it be? 
+- ```XOR``` Yes.
+- But this is a forensics question having an image. There is no way we don't run steghide on it.
+- Run ```steghide extract -sf FIRE.JPG ```
+- But what passphrase? What do we even have right now? Only "XOR". Use it. Ah yes, we get a .txt file.
+- There we see a long hexstring. Might be the flag. But read the filename. Literally says that the source is trust me bro. We can do better.
+- Anyways, where is the cryptography the question talked about? So much XOR talks but where could the implementation be?
+- Maybe XOR the hexstring. But with what? What more hints do we have? Maybe we should examine the question again.
+- The question says about trying again and again, if we don't get the clue. Repitition. Repititive XOR. But same question. With what?
+- Here's the catch. Look at the file. Some hint? FIRE. Why 'FIRE'.JPG? That's the frigging key!
+- We can implement a script for Repititive XORring 'FIRE' with our .txt hexstring.
+- That's it, read ./flag.py for the solution.
