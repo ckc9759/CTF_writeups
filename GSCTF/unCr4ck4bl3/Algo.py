@@ -16,3 +16,7 @@ while True:
     elif sum==1000:
         print("Password: "+key)
         break
+
+        
+ 
+# GSCTF{4nd_1t_w45_uncr4ck4bl3}
