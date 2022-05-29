@@ -8,4 +8,6 @@ Can you find his deepest, darkest secret?
 ### HINT:
 This multi-step challenge combines steg, OSINT, ciphers, and password cracking all into one amazing Chad-y challenge!  
 
+#### On hearing the mp3 file, you will find an abrubt ending in the end..  
+Using Sonic Visualizer or any spectrogram adding tool, you can find a code in the image..
 
