@@ -92,8 +92,9 @@ print(key)
 ```
 gives us the key as 'W'.
 
-Now, we go to cyberchef and xor the given string with key 'W'. (key- W, Print- UTF8)
+Now, we go to CyberChef and Xor the given string with key 'W'. (key- W, Print- UTF8)
 
-#### Message received: 0rc4s-4r3-c00l
+#### Message received: 0rc4s-4r3-c00l  
+#### Flag- byuctf{0rc4s-4r3-c00l}
 
 Thank You
