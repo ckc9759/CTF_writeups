@@ -8,7 +8,8 @@ To prevent the need to brute force submit what may seem to be multiple likely an
 Soln:  
 On viewing the file, we find that the flag is given right away but it has been hidden with a black line that is not removable with image edittors or LSB shift.
 
-Hence, we try to decipher the letters using intution and examining the given strings visible parts
+Hence, we try to decipher the letters using intution and examining the given strings visible parts  
+
 ![ckc](https://user-images.githubusercontent.com/95117634/171031262-2380a927-5d56-4c66-a788-f41bce0cec52.png)
 
 If we look closely, we can identify letters and numbers such as l with it's curve, 1, h with it's shape having two curved bottoms.  
