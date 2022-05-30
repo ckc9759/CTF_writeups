@@ -18,5 +18,7 @@ Searching this string on Google, we find that it is an obj file and the files ha
 
 Using Wireframe view, we get the flag embedded inside the object.
 
-Thank you
+![ckc](https://user-images.githubusercontent.com/95117634/171040409-07637285-cb74-46f2-b20d-6c95090927f6.png)
+
+Thank you  
 [Ckc9759](https://github.com/ckc1404)
