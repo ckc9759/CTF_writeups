@@ -31,7 +31,7 @@ I cleaned up the file removing the png section that was before the "Rar!" I was 
 
 Not knowing the password to unlock these files I poked around on the twitter again and found this text file.Using this I was able to decypt this by counting the ammount of "chads" and "thejaws" the corelated the number to letters in the alphabet you can see my thought process here:  
 
-![ckc](https://github.com/ckc1404/CTF_writeups/blob/main/BYU%20CTF/Chad_the_jaw/170875008-af66fe05-f0d0-4524-b7d9-c682d06ac6d9.png)  
+![ckc](https://user-images.githubusercontent.com/95117634/171094526-bc7e98db-2db4-4d4d-a013-a48ae1f10fe9.png)  
 
 You can find the Flag in 
 ### left bottom corner...
