@@ -11,22 +11,22 @@ This multi-step challenge combines steg, OSINT, ciphers, and password cracking a
 #### On hearing the mp3 file, you will find an abrubt ending in the end..  
 Using Sonic Visualizer or any spectrogram adding tool, you can find a code in the image..  
 
-![ckc](https://github.com/ckc1404/CTF_writeups/blob/main/BYU%20CTF/Chad_the_jaw/170844536-23f69f75-fdfc-4b7f-8601-6c190f0cdf3c.png)
+![ckc](https://user-images.githubusercontent.com/95117634/171095017-76022fbd-e39f-4e65-9e86-32c9dd895bf5.png)
 
 After searching on twitter for chad, i found a profile named as Giga Chad:  https://twitter.com/ChadTheJaw    
-![ckc](https://github.com/ckc1404/CTF_writeups/blob/main/BYU%20CTF/Chad_the_jaw/170845800-8ed4ebbe-5cf8-405a-8c2f-653e8f0442fb.png)  
+![ckc](https://user-images.githubusercontent.com/95117634/171094920-11f9d79c-3ed9-4430-a1db-89397475776c.png)  
 
 
 On the twitter page, you can find a suspicious page saying look at me now:  
-![ckc](https://github.com/ckc1404/CTF_writeups/blob/main/BYU%20CTF/Chad_the_jaw/170844566-fb8d40d2-780d-413e-9f3e-922996528230.png)    
+![ckc](https://user-images.githubusercontent.com/95117634/171095067-60e17a1a-609a-49ec-83cc-527d522a7370.png)    
 
-![ckc](https://github.com/ckc1404/CTF_writeups/blob/main/BYU%20CTF/Chad_the_jaw/170845774-961dadae-2d5b-4834-866f-35d9d67c8d0b.png)  
+![ckc](https://user-images.githubusercontent.com/95117634/171094843-c5b273e3-2da3-44f6-a35a-886378547781.png)  
 
 Upon downloadling this file I noticed that it was unusually large 16MB for a small jpg,  
 I loaded it into a hex editor and it looked like there was other content hidden in that image,  
 eventually I found that there was a rar file inside:  
 
-![ckc](https://github.com/ckc1404/CTF_writeups/blob/main/BYU%20CTF/Chad_the_jaw/170844653-d58d7051-7889-47b7-b8bc-c99652b27285.png)  
+![ckc](https://user-images.githubusercontent.com/95117634/171094782-408a14c3-0606-4cf7-8910-bffc0b30abf2.png)  
 I cleaned up the file removing the png section that was before the "Rar!" I was left with an password locked rar file:  
 
 Not knowing the password to unlock these files I poked around on the twitter again and found this text file.Using this I was able to decypt this by counting the ammount of "chads" and "thejaws" the corelated the number to letters in the alphabet you can see my thought process here:  
