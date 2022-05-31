@@ -10,7 +10,7 @@ Contents: ˆ †˙ˆ˜˚ µ¥ ˚´¥∫øå®∂ ˆß ∫®ø˚´˜≥ ˆ ∑å�
 
 Soln:
 
-If we try to google the given set of symbols, the first link which comes up is LINGOJAM which says it is a *Symbol language*.
+If we try to google the given set of symbols, the first link which comes up is [LINGOJAM](https://lingojam.com/SymbolLanguageTranslator) which says it is a *Symbol language*.
 
 Decoding the given symbols we get,
 
