@@ -5,7 +5,7 @@ The vanity and audacity of these scammers and their phishing attacks are just ge
 Flag format: byuctf{mm-dd-yyyy}
 
 ### File attached: 
-[sharky.png](https://user-images.githubusercontent.com/95117634/171093370-b47dee6a-a827-4932-9223-336801961dd3.JPG)  
+![sharky.png](https://user-images.githubusercontent.com/95117634/171093370-b47dee6a-a827-4932-9223-336801961dd3.JPG)  
 
 Soln: 
 The image looks very peculiar with masks on faces of fish.
