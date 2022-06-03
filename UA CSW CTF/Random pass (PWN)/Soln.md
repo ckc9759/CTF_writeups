@@ -26,4 +26,4 @@ Pass: 2xjYV4fTq2cDJxAe
 CTFUA{-_printf_is_not_print_-}
 ```
 
-Thank yoy
+Thank you
