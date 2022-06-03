@@ -7,7 +7,9 @@ I just mixed all my challenges together, enjoy.
 ### Soln: Start by downloading the 2 images provided by the challenge.  
 
 With GenasiDndSize.jpg change the visible size of the image to see the password  pLE4sE_L3t_ME_iN_1 ,
-you can do it by change the bytes of the images that define it's height. 
+you can do it by change the bytes of the images that define it's height.   
+
+Link of related blog: https://blog.cyberhacktics.com/hiding-information-by-changing-an-images-height/  
 
 Use the password found as passphrase in steghide with GenasiSteg.jpg.
 
