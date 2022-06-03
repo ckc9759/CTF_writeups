@@ -4,7 +4,7 @@ Seems like in their haste to deliver a secret message to the Army's first blind 
 Help them decode this message! (And don't forget, encoding is most definitely not encryption!)
 
 #### File attached: 
-[Cryptogram.txt]()
+[Cryptogram.txt](https://github.com/ckc1404/CTF_writeups/blob/main/UA%20CSW%20CTF/Blind%20Soldier%20(CRYPTO)/criptograma.txt)
 
 #### Soln:
 Converted the Braille to Ascii, and take the first letter for each word, EXCEPT for the numbers, and comma
