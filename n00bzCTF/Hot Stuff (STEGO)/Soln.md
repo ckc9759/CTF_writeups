@@ -64,6 +64,9 @@ https://gchq.github.io/CyberChef/#recipe=Magic(3,false,false,'')
 
 222 232 235 235 242 227 243 232 215 246 215   --- OCTAL
 ```
+<h>
+ <img src="https://user-images.githubusercontent.com/95117634/172211383-1d566f11-3251-4ec8-8932-8f2b89bd8324.png" width="800" height="400">
+</h>
 
 #### THE FLAG: n00bz{floorislava}
 
