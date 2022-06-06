@@ -1,7 +1,8 @@
 ### Chall Desc: 
 It's so snowy
 
-### Files attached: [enc.txt](enc.txt)  [wordlists.txt](wordlists.txt)
+### Files attached: 
+[enc.txt](enc.txt)  [wordlists.txt](wordlists.txt)
 
 #### Soln:
 
@@ -28,13 +29,13 @@ Warning: residual of 3 bits not uncompressed
 
 It gave me an error. This is where we use the second txt file. Actually it has the password which has been used to protect the data in enc.txt file.
 
-The password comes out to be lovesnow after trying each word one by one.
+The password comes out to be "lovesnow" after trying each word one by one.
 The below command gives us the flag.
 
 ```python
 ckc9759@ckc:/mnt/c/Users/Chaitanya K Chauhan/desktop$ stegsnow -C -p 'lovesnow' enc.txt
 n00bz{st3g_1s_s0_sn0wy}
 ```
-
+<span style="color:blue">some *blue* text</span>.
 Thank You
 
