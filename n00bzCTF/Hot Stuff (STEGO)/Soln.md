@@ -56,13 +56,11 @@ https://cryptii.com/pipes/binary-decoder
 https://gchq.github.io/CyberChef/#recipe=Magic(3,false,false,'')
 
 ```abc
-146 154 157 157 162 151 163 154 141 166 141  --- DECIMAL
+146 154 157 157 162 151 163 154 141 166 141  --- OCTAL
 
 92 9A 9D 9D A2 97 A3 9A 8D A6 8D  --- HEXADECIMAL
 
 10010010 10011010 10011101 10011101 10100010 10010111 10100011 10011010 10001101 10100110 10001101  --- BINARY
-
-222 232 235 235 242 227 243 232 215 246 215   --- OCTAL
 ```
 <h>
  <img src="https://user-images.githubusercontent.com/95117634/172211383-1d566f11-3251-4ec8-8932-8f2b89bd8324.png" width="800" height="400">
