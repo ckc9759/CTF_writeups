@@ -48,17 +48,24 @@ ckc9759@ckc:/mnt/c/Users/Chaitanya K Chauhan/downloads$ cat corrupt.lava
 
 It started making some sense. There were few characters and then a set of 3 numbers.
 I collected those numbers and tried different ways to decode it.
-1. Firstly i found their hex and then using ascii decoding but that was wrong.
-2. Then i converted the decimal to binary and then binary decoder but it was not a UTF-8 encoded text.
-3. Then i converted them to octal and used cyberchef to get the line required: "FLOORISLAVA" 
+1. Firstly i found their hex and then using ascii decoding but that was wrong.  
+https://www.dcode.fr/ascii-code
+2. Then i converted the decimal to binary and then binary decoder but it was not a UTF-8 encoded text.  
+https://cryptii.com/pipes/binary-decoder
+3. Then i converted them to octal and used cyberchef to get the line required: "FLOORISLAVA" . (my team member helped me decoding it)
+https://gchq.github.io/CyberChef/#recipe=Magic(3,false,false,'')
 
 ```abc
-146 154 157 157 162 151 163 154 141 166 141
+146 154 157 157 162 151 163 154 141 166 141  --- DECIMAL
 
-92 9A 9D 9D A2 97 A3 9A 8D A6 8D
+92 9A 9D 9D A2 97 A3 9A 8D A6 8D  --- HEXADECIMAL
 
-10010010 10011010 10011101 10011101 10100010 10010111 10100011 10011010 10001101 10100110 10001101
+10010010 10011010 10011101 10011101 10100010 10010111 10100011 10011010 10001101 10100110 10001101  --- BINARY
 
-222 232 235 235 242 227 243 232 215 246 215
+222 232 235 235 242 227 243 232 215 246 215   --- OCTAL
 ```
+
+#### THE FLAG: n00bz{floorislava}
+
+Thank you
 
