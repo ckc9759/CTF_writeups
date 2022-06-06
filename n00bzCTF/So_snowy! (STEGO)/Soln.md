@@ -36,6 +36,6 @@ The below command gives us the flag.
 ckc9759@ckc:/mnt/c/Users/Chaitanya K Chauhan/desktop$ stegsnow -C -p 'lovesnow' enc.txt
 n00bz{st3g_1s_s0_sn0wy}
 ```
-<span style="color:blue">some *blue* text</span>.
+
 Thank You
 
