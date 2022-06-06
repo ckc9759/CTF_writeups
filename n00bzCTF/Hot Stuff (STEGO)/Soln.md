@@ -31,7 +31,7 @@ ckc9759@ckc:/mnt/c/Users/Chaitanya K Chauhan/downloads$ strings corrupt.lava
 ckc9759@ckc:/mnt/c/Users/Chaitanya K Chauhan/downloads$
 ```
 
-This info was useless. Then i tried:
+This info was useless. Then i tried "cat" command and got this:
 
 ```python
 ckc9759@ckc:/mnt/c/Users/Chaitanya K Chauhan/downloads$ cat corrupt.lava
