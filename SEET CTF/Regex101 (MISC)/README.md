@@ -2,7 +2,7 @@
 
 Our team stored a flag on our machine, however, we were hacked by someone, and he generated 2999 flags and hid our original flag in the .txt file. The flag consists of 5 uppercase letters, followed by 5 digits and another 6 uppercase letters. Can you find it for us?
 
-MD5: 20651445a358372970c74c270d5995d3
+`MD5: 20651445a358372970c74c270d5995d3`
 
 ### File attached:  [zip_file](https://github.com/ckc1404/CTF_writeups/blob/main/SEET%20CTF/Regex101%20(MISC)/misc_regex101.zip)
 
@@ -45,6 +45,6 @@ SEE{RGSXG13841KLWIUO}
 SEE{H4TJC914992UVHCC}
 ```
 
-The right answer is the third option which is SEE{RGSXG13841KLWIUO}.
+The right answer is the third option which is `SEE{RGSXG13841KLWIUO}`.
 
 Thank you
