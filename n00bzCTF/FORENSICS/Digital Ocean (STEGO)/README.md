@@ -3,7 +3,8 @@ DigitalOcean is one of our biggest sponsors!
 
 ### File attached: [DigitalOcean.pptx](w.pptx)
 
-### Soln: 
+#### Soln: (Author ckc9759)
+
 This is a simple challenge. if we scroll down in the powerpoint presentation we can view chunks of flag hidden in the file itself.
 Framing them together into one line makes the flag.
 
