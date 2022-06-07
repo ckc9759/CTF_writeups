@@ -52,7 +52,7 @@ I collected those numbers and tried different ways to decode it.
 https://www.dcode.fr/ascii-code
 2. Then i converted the decimal to binary and then binary decoder but it was not a UTF-8 encoded text.  
 https://cryptii.com/pipes/binary-decoder
-3. Then i converted them to octal and used cyberchef to get the line required: "FLOORISLAVA" . (my team member helped me decoding it)
+3. Then i used them as octal and used cyberchef to get the line required: "FLOORISLAVA" . (my team member helped me decoding it)
 https://gchq.github.io/CyberChef/#recipe=Magic(3,false,false,'')
 
 ```abc
