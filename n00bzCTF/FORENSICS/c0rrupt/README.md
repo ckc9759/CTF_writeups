@@ -5,7 +5,7 @@ Some h3ck3rs have been sending secret data using corrupted png's, Find the data!
 ### File attached:
 [corrupt.png](corrupt.png)
 
-#### Soln: 
+#### Soln: (Author ckc9759)
 The file given to us as the name of challenge suggests is corrupted and we are supposed to retrieve it. 
 The image isn't opening. 
 
