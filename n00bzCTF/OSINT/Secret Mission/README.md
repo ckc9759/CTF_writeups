@@ -11,7 +11,7 @@ There is some secret space mission going on, we have found a photo of it. Can yo
 Reverse search the image and the first link which comes up gievs the answer.
 
 <h>
- <img src = "ss.png" width="700" height="400">
+ <img src = "ss.png" width="1200" height="500">
 </h>
 
 #### THE FLAG: n00bz{Parker_Solar_Probe}
