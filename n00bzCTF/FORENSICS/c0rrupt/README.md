@@ -33,9 +33,7 @@ It is visible that the height and width of image has been set to 0 and 0. we nee
 ```
 
 The final image:
-
-
-
+![](fix.png)
 
 ### THE FLAG: n00bz{h0w_7he_h41l_d1d_y0u_f1x_th1s?!!}
 
