@@ -4,7 +4,7 @@ It's so snowy
 ### Files attached: 
 [enc.txt](enc.txt)  [wordlists.txt](wordlists.txt)
 
-#### Soln:
+#### Soln: (Author ckc9759)
 
 At first, i did not get any clue by those riddles and names written in the txt files.
 
