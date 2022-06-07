@@ -6,7 +6,7 @@ There is some secret space mission going on, we have found a photo of it. Can yo
  <img src = "satellite.png" width="700" height="400">
 </h>
 
-#### Soln:
+#### Soln: (Author Amol Aggarwal)
 
 Reverse search the image and the first link which comes up gievs the answer.
 
