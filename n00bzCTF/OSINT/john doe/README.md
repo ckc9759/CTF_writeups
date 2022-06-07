@@ -20,5 +20,10 @@ https://holloway.nz/steg/
 
 It gives us another username and this time, it is a twitter username: `noobmas55827604`
 
+![jj](https://user-images.githubusercontent.com/95117634/172292376-cfa2d90d-0d0f-40d3-a925-639cf9175b01.png)
+
+There is a link, which gives us a pcapng file. On loading it in `wireshark` and following the tcp stream, we get a link: https://s1.fdow.nl/u6QfK-chall.jpg
+that gives us an image.
+
 
 
