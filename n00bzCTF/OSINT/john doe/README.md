@@ -25,5 +25,14 @@ It gives us another username and this time, it is a twitter username: `noobmas55
 There is a link, which gives us a pcapng file. On loading it in `wireshark` and following the tcp stream, we get a link: https://s1.fdow.nl/u6QfK-chall.jpg
 that gives us an image.
 
+![](https://user-images.githubusercontent.com/95117634/172292655-80cebeb1-b9df-46f1-a916-167d2f20adf7.jpg)
 
+Using reverse search tools, i went on to find a similiar image for about 12-13 hours. I searched it on Google, yahoo, flickr, tinyimage, bing and many others.  
 
+Finally i found this on `yandex` which was the right answer. In the top right corner, you can see the location is mentioned
+
+![](https://user-images.githubusercontent.com/95117634/172292767-dc48165b-9787-4cc5-8241-a493445e88d2.png)
+
+#### THE FLAG: n00bz{new_kakhovka_plavni}
+
+Thank you
