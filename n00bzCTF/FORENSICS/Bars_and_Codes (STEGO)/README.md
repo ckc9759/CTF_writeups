@@ -3,7 +3,7 @@ John and Sebastian are always arguing over one thing or another. This time round
 
 ### File attached: [qrcode.png](qr.png)
 
-## Soln: 
+### Soln: (author ckc9759)
 
 We are given a qr.png image.  
 
