@@ -5,7 +5,7 @@ Example flag: n00bz{new_york}
 
 ### File attached: none
 
-#### Soln: (Author ckc9759)
+#### Soln: (Author ckc9759 Amol_agg)
 
 We are given a username `noonbpeople9999`. On searching it on Google, a facebook account comes up with that username but that is irrelevant.
 Then, there was an instagram account with that username.
