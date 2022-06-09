@@ -4,7 +4,7 @@ The local Konica Minolta printer overheated. Can you find out why?
 ### File attached: 
 [corrupt.lava](corrupt.lava)
 
-#### Soln: (Author ckc9759)
+#### Soln: (Author ckc9759 FusterCluck)
  
 It required some thinking.  
 Firstly when i tried few commands on the lava file, nothing substantial i could find.
