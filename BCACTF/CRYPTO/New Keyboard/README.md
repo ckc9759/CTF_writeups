@@ -4,7 +4,13 @@ My keyboard's not broken, I just need to get used to it.
 It uses a different layout from most keyboards.
 
 
-### File attached: [chall.txt](chall.txt)
+### File attached: 
+chall.txt
+
+`Content`: 
+```
+Cy ygpbo rgy ydco t.fxrape go.o yd. Ekrpat nafrgy! Cy p.annf m.oo.o gl mf mgojn. m.mrpfv Yd. unai co xjajyu?t3fx0ape{naf0g7{jdabi3gl{',.pyf+
+```
 
 ### Soln:
 
