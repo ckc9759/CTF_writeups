@@ -1,12 +1,7 @@
-# Query Service
-
-Challenge Description:
-
-> I've made a little website to access a SQL database. I even added a way to share your queries with other people! Just copy the link.
-
-> Hint1: The contents of the database will give you some info on what to do next.
-
-> Hint2: You can only change the query; can you inject arbitrary HTML with it?
+### Chall Desc
+I've made a little website to access a SQL database. I even added a way to share your queries with other people! Just copy the link.
+Hint1: The contents of the database will give you some info on what to do next.
+Hint2: You can only change the query; can you inject arbitrary HTML with it?
 
 ## Analyzing the website
 
@@ -31,3 +26,5 @@ Giving the link of the submitted page to the admin bot gives us requests in the 
 We get the flag the cookie section in the webhook request.  
 
 ![flag_output](flag.png)
+
+Thank you
