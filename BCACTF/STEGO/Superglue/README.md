@@ -2,7 +2,7 @@
 I accidentally glued my images together. Please help!
 
 ### File attached:
-[chall](chall (3))
+[chall](C)
 
 ### Soln:
 
