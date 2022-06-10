@@ -14,7 +14,7 @@ The solution is self-explanatory. Since, the amount of money was dependent on th
 In this case, it was mapped with their ascii values and hecne `d` was the letter with `117` frequency as the sweet spot.  
 I figured this out with hit and trials.
 
-```py
+```prg
 ckc9759@ckc:/mnt/c/Users/Chaitanya K Chauhan/desktop/binex$ ls
 bof-shop
 ckc9759@ckc:/mnt/c/Users/Chaitanya K Chauhan/desktop/binex$ echo "bcactf{test_flag}" > flag.txt
