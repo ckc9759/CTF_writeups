@@ -15,7 +15,7 @@ http://web.bcactf.com:49197/
 
 If you look at the source page, u can find the login credentials: username: `admin`, password: `password`.  
 
-> This is the comment we receive from source code of admin page.  
+> This is the comment we receive from the source code of admin page.  
 ```py 
 The name of the device is "BCACTF Rocket Control Panel" in case you forgot.
 ``` 
