@@ -6,6 +6,8 @@ Have a look.
 pngcheck, strings, exiftool, binwalk, hexedit. None of them gave any information. 
 Then i went to online steg solving sites and using LSB half i could see the flag written diagonally.
 
+![colorz.png](colorz.png)
+
 Sites used:
 
 https://medium.com/ctf-writeups/stegonline-a-new-steganography-tool-b4eddb8f8f57
