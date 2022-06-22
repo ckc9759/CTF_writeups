@@ -8,6 +8,8 @@ Then i went to online steg solving sites and using LSB half i could see the flag
 
 ![colorz.png](colorz.png)
 
+![colorz_conv.png](colorz_conv.png)
+
 Sites used:
 
 https://medium.com/ctf-writeups/stegonline-a-new-steganography-tool-b4eddb8f8f57
