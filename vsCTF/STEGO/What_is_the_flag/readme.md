@@ -18,6 +18,8 @@ Using it, we get a zip file containg the fonts.
 
 It doesn't make much sense looking at the list of fonts until first letter of each font starts making words.
 
+![wht.png](wht.png)
+
 It becomes somehwat `KNOWYOURONT` which looks something like know your fonts, 
 
 using https://www.extractpdf.com/, we get two more fonts which is a `f` and a `s` which makes the whole flag.
