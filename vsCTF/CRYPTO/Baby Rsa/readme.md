@@ -2,7 +2,7 @@
 Just a baby challenge...
 
 ### Files attached :
-[publickey.pem](publickey.pem)
-[chall.py](chall(2).py)
+[pubkey.pem](pubkey.pem)
+[chall.py](chall.py)
 
 ### Soln: 
