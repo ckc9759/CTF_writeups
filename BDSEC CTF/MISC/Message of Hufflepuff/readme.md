@@ -21,14 +21,14 @@ In a binary tree, every left child can be denoted by a 0 and a right child with 
 converted msg.txt
 
 ```cpp
-00101
-111
-00110
-1011
-1001
-00111
-00010
-01000
+00101  --> B
+111    --> D
+00110  --> S
+1011   --> E
+1001   --> C
+00111  --> { and so on
+00010      .
+01000      .
 1000
 1000
 00100
