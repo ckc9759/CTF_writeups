@@ -15,7 +15,7 @@ I used strings with grep command to see if there is any flag hidden there. Then 
 
 Finally on using binwalk, we can see there is a .rar file hidden inside.
 
-```py
+```cpp
 ckc9759@ckc:/mnt/c/Users/Chaitanya K Chauhan/downloads$ file fireflies.gif
 fireflies.gif: GIF image data, version 89a, 268 x 340
 ckc9759@ckc:/mnt/c/Users/Chaitanya K Chauhan/downloads$ strings fireflies.gif | grep "BDSEC"
