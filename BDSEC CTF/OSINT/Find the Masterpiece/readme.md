@@ -13,6 +13,8 @@ Special note: All the letter of the flag are lower case and there will be a spec
 
 ### Soln : 
 
+```py
+
 In this challenge, we are given some numbers and given piano keys might help. 
 So the master piece must be a song.
 
