@@ -8,13 +8,13 @@ It says click to see the big secret but it's not the flag and just rickroll.
 
 Inspecting the page, we find the first half of flag in the html file itself : 
 
-```
+```py
 HAHAHAHAHAHAHAHAHAHA I know you will never reach the bottom here because of my infinite scroll. If you somehow did, here is the first third of the half LITCTF{E5th3r_M4
 ```
 
 The second part was hidden in the style.css file.  
 
-```
+```css
 .secret {
 	/* _i5_s0_OTZ_0TZ_OFZ_4t_ */
 	font-size: 50px;
