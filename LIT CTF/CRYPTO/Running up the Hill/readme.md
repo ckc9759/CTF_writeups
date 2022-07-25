@@ -15,8 +15,8 @@ A8FC7A{H7_ZODCEND_8F_CCQV_RTTVHD}
 
 ### Soln : 
 
-In this challenge, we are given a matrix, a set of characters and a shifter flag kind of string.
-I tried searching for matrix ciphers and got a link for hill cipher on dcode.fr.  
+In this challenge, we are given a matrix, a set of characters and a shifted flag kind of string.  
+I tried searching for matrix ciphers and got a link for hill cipher on dcode.fr.    
 [hill cipher](https://www.dcode.fr/hill-cipher)
 
 
