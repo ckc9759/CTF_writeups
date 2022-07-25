@@ -3,7 +3,7 @@ Do you know how to speak hexadecimal? I love speaking in hexadecimal. In fact, i
 
 ### File content : 
 
-```py
+```
 4c49544354467b74306f6c355f346e645f77336273317433735f6172335f763372795f696d70307274346e745f6630725f4354467d
 ```
 
