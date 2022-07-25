@@ -9,7 +9,7 @@ Original song: Green Grounds from Kirby Mass Attack
 
 ### File :
 
-[volc](volc.mp3)
+[volc.mp3](volc.mp3)
 
 ### Soln :
 It is a spectogram question. We are given an audio file and we need to view it with spectogram on any audio visualizer. In my case, i use sonic visualizer.
