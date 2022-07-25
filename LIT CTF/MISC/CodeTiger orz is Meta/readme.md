@@ -9,7 +9,7 @@ can you find the flag from this amazing codetiger fan picture!!
 We are hinted with the chal description that the data is inside the metadata of the png file.  
 We use foremost and exiftool and we can see the parts of the flag. Joining them generates the flag for us.
 
-```
+```py
 ckc9759@ckc:/mnt/c/Users/Chaitanya K Chauhan/downloads$ exiftool codetigerfanpic.png
 ExifTool Version Number         : 11.88
 File Name                       : codetigerfanpic.png
