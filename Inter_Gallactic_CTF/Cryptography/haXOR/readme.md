@@ -24,4 +24,10 @@ We are given a hex code which can be decoded using cyberchef online tool :
 
 Then we need to use xor to the output of hex to get the flag.
 
-#### THE FLAG : 
+
+
+#### THE FLAG : IGE{XOR_1$_EasY}
+
+---
+
+Thank you
