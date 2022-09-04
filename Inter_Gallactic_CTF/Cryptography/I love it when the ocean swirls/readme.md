@@ -30,7 +30,10 @@ I tried using hex decode on CyberChef to ascii but didn't work.
 
 Finally using [crackstation](https://crackstation.net/),
 
-we get our flag :
+we get our flag : kinghash
 
+#### THE FLAG : IGE{kinghash}
 
+---
 
+Thank you
