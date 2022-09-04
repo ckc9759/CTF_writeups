@@ -22,15 +22,11 @@ Flag format: IGE{XXXXXXXX}
 
 ### Soln :
 
-This is also a beginner level challenge.
-
-We are given a hash which is not simple hex. 
+This is also a beginner level challenge. We are given a hash which is not simple hex. 
 
 I tried using hex decode on CyberChef to ascii but didn't work.
 
-Finally using [crackstation](https://crackstation.net/),
-
-we get our flag : kinghash
+Finally using [crackstation](https://crackstation.net/), we get our flag : kinghash
 
 #### THE FLAG : IGE{kinghash}
 
