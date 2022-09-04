@@ -12,3 +12,17 @@ Flag format: IGE{XX_XX_XXX_XXX_XXXX_XXXX_XXXX}
 
 P.S. This is the most based challenge btw
 ```
+
+---
+
+This is a challenge where we use cipher identifier of dcode.fr : https://www.dcode.fr/cipher-identifier
+
+Using that, we get to know it is `Base 91` cipher : 
+
+Decoding the given ciphertext we get the flag.
+
+#### THE FLAG : IGE{oh_no_you_got_your_base_back}
+
+---
+
+Thank you
