@@ -17,6 +17,11 @@ Credit: Byrch B.
 
 ### Soln : 
 
+I simply used the pre-installed gpg software in Kali Linux Vm. 
+
+The challenge name also directed us to something like gpg or pgp including the file extension.
+
+
 ```bash
 ──(ckc9759㉿Kali)-[~/Desktop]
 └─$ gpg --import private.asc
