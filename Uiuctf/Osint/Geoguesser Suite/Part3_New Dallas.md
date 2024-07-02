@@ -13,7 +13,7 @@ Chal.jpg
 
 The given image seems to be taken from a `dashcam` ( Dashboard camera ) and the number plates have been blurred ( geoguesser chall for a reason ).
 
-The description mentions something about trains `Super wide roads with trains... Is this the new Dallas?` so our first thought was to research the train. We couldn't get much info by searching for the train (Got some results for `Shanghai Metro train line 16` but ignored ) as it was too small to identify any details.
+The description mentions something about trains `Super wide roads with trains... Is this the new Dallas?` so our first thought was to research the train. The top of train looks like a green or cyan coloured strip and it has 6 coaches. We couldn't get much info by searching for the train (Got some results for `Shanghai Metro train line 16` but ignored ) as it was too small to identify any details.
 
 Searching for `dallas` and `new dallas` gave some news articles about the `dallas` city in Texas but it was of no use. Searching for all the train lines running in dallas also didn't give any information regarding our picture.
 
@@ -24,6 +24,16 @@ Zooming the pictue, one can observe the blurred letters which resembles `chinese
 [Geospy Ai](https://geospy.web.app/) also confirms this thing to some extent, so we start looking for railway lines in China and Japan now ( Still unsure ).
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/8cd15c47-cf29-499a-b97b-8ea0d0e130e8)
+
+Also, a portion of number plate is visible, a blue number plate with again chinese symbols as it seems, searching for the same almost confirms it's `China`.
+
+![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/58e619f1-5bf5-484b-9162-8fd90d377386)
+![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/a58f8bf9-0aa2-434a-8874-15a677283dcd)
+
+
+
+
+
 
 
 
