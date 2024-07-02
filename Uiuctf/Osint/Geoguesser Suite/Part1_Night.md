@@ -12,13 +12,13 @@ Chall.jpg
 The challenge says we need to find the street name and the city from the given image. At first glance, 
 we can't figure out anything about the challenge as no text can be found from the image and also it's a night view.
 
-Looking closely, I found that this tower's name or perhaps the logo has been intentionally blurred as hinted from challenge `Some words are blurred out to make the challenge harder, hopefully.`.
+We started searching for the buildings and the background for any clues using Google image search and Yandex. Looking closely, I found that this tower's name or perhaps the logo has been intentionally blurred as hinted from challenge `Some words are blurred out to make the challenge harder, hopefully.`.
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/2d59acfe-4c21-48e8-81df-474fa13b899b)
 
 Using google lens, the whole image doesn't return anything useful but some random overbridges and streets.  
 
-Cropping the image portion of the tower and searching for that reveals it is the `Prudential Center` from **Boston** near **Fairmont Copley Plaze**.
+Cropping the image portion of the tower and searching for that reveals it is the `Prudential Center` from **Boston** near **Fairmont Copley Plaze**. Searching for this on maps, there's 2 key things you need to notice which is, the position of the adjacent building (`ball like structure on top`) and the type of road which is some kinda underway (goes from below other roads).
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/7b5bba1c-8b59-4a79-980c-67abc5fa93f9)
 
@@ -36,12 +36,14 @@ Searching on Google earth, ([LINK](https://earth.google.com/web/@42.34795704,-71
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/75eb7138-79ec-4175-bf84-f6b2a2d194d2)
 
+Special mention to my teammate @AkaniX3 who helped a lot in solving this chall.
+
 #### Flag : uiuctf{Arlington Street, Boston}
 
 ---
 
-Thank you
-ckc9759
+Thank you  
+***ckc9759***
 
 
 
