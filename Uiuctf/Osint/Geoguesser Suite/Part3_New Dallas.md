@@ -6,5 +6,12 @@
 
 This was the 3rd part of Geoguesser Suite from **UIUCTF 2024**.
 
+Chal.jpg
+
+![Uploading image.png…]()
+
+The given image seems to be taken from a dashcam ( Dashboard camera ) and the number plates have been blurred ( geoguesser chall for a reason ).
+
+
 
 
