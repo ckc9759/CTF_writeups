@@ -12,5 +12,36 @@ Chall.jpg
 The challenge says we need to find the street name and the city from the given image. At first glance, 
 we can't figure out anything about the challenge as no text can be found from the image and also it's a night view.
 
-Looking closely, I find that this tower's name or perhaps the logo has been intentionally blurred.
+Looking closely, I found that this tower's name or perhaps the logo has been intentionally blurred as hinted from challenge `Some words are blurred out to make the challenge harder, hopefully.`.
+
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/2d59acfe-4c21-48e8-81df-474fa13b899b)
+
+Using google lens, the whole image doesn't return anything useful but some random overbridges and streets.  
+
+Cropping the image portion of the tower and searching for that reveals it is the `Prudential Center` from **Boston** near **Fairmont Copley Plaze**.
+
+![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/7b5bba1c-8b59-4a79-980c-67abc5fa93f9)
+
+After this, I started searching with street view of google maps to find the exact location of street from where this photo was taken from.
+
+I tried all the four directions from Prudential Tower to see the orientations. There was some overbridge kind of lines in street views near Prudential tower in the right side so I narrowed down my search over there. 
+
+![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/87a00391-904f-4c9e-be06-d6b48da6bcfb)
+
+The right section from prudential tower was an underground road so it wasn't clearly visible. The first similiar picture I could find in street view was on the left side of prudential tower on `I-90` **Massachusetts Turnpike**. `Blue circle` - Prudential Centre, `Red rectangle` - Similarity from the challenge image including the street lights. `I-90` seemed to be correct and now the only task left was to match the background areas to find the street. It took a while using street view to find the location.
+
+![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/a5084ecb-eb4a-4f3b-af9a-e6e02ff13588)
+
+Searching on Google earth, ([LINK](https://earth.google.com/web/@42.34795704,-71.06935611,1.89625095a,0d,59.99999999y,251.01081466h,90.06751746t,0r/data=IhoKFkFlWHYxM0hJdE11WmJYUlZjSnNGa2cQAjoDCgEw)), I was able to pin point the location as `157 Arlington Street, Boston, Massachusetts`.
+
+![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/75eb7138-79ec-4175-bf84-f6b2a2d194d2)
+
+#### Flag : uiuctf{Arlington Street, Boston}
+
+---
+
+Thank you
+ckc9759
+
+
+
