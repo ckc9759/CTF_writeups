@@ -32,11 +32,16 @@ The right section from prudential tower was an underground road so it wasn't cle
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/a5084ecb-eb4a-4f3b-af9a-e6e02ff13588)
 
-Searching on Google earth, ([LINK](https://earth.google.com/web/@42.34795704,-71.06935611,1.89625095a,0d,59.99999999y,251.01081466h,90.06751746t,0r/data=IhoKFkFlWHYxM0hJdE11WmJYUlZjSnNGa2cQAjoDCgEw)), I was able to pin point the location as `157 Arlington Street, Boston, Massachusetts`.
+So next, one can notice there a sign board in original image which allows intersection, that means, the position is around some kind of intersection. Checking all the intersections along the road, we come across the fourth one which is our answer.
+
+![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/bca85dcc-9712-49c0-a9b0-7b88bc82f981)
+
+
+Searching on Google earth, ([LINK](https://earth.google.com/web/@42.34795704,-71.06935611,1.89625095a,0d,59.99999999y,251.01081466h,90.06751746t,0r/data=IhoKFkFlWHYxM0hJdE11WmJYUlZjSnNGa2cQAjoDCgEw)), I was able to pin point the location as `157 Arlington Street, Boston, Massachusetts`. The glass building and red building on the left of image for confirming the location
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/75eb7138-79ec-4175-bf84-f6b2a2d194d2)
 
-Special mention to my teammate @AkaniX3 who helped a lot in solving this chall.
+Special mention to my teammate `@AkaniX3` who helped a lot in solving this chall.
 
 #### Flag : uiuctf{Arlington Street, Boston}
 
