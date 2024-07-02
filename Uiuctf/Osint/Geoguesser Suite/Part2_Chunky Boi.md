@@ -35,6 +35,11 @@ I searched for alaska airlines then and spent quite a while finding the airport.
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/0d0537d8-4405-4b73-9642-2dff053f8726)
 
+Searching on [Geospy AI](https://geospy.web.app/) gave a similiar thing so it was sure enough that we are in right direction.
+
+![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/be381001-bfc5-4212-896b-913b8f812f95)
+
+
 It mentions the `Seatac Airport` and the second search also revealed something related to Seattle. To check it's right, I further searched for `seatac airport boeing c-17 77182` and got a youtube video related to this which confirms the surrounding areas as seen from the picture.
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/3da7aee5-24cf-4b08-b8a4-e13c04a646b1)
