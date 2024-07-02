@@ -24,7 +24,7 @@ The first result is from wikipedia which is also hinted by challenge : `The airc
 
 Hence, we started looking for information on the wiki where we can find the type of plane to be `Boeing C-17A Globemaster III`  
 
-Now, we need to find the location of this aircraft for the coordinates. I goolged for `Boeing C-17A Globemaster III usa airport` which gave many airport locations.
+Now, we need to find the location of this aircraft for the coordinates. We goolged for `Boeing C-17A Globemaster III usa airport` which gave many airport locations like Seattle, EWR, LAX and few more.
 It took us a while to figure out the actual airport, even searching with `AMC` and `77182` didn't help.
 
 Searching for the other plane reveals it's something related to `Alaska Airlines`.
@@ -44,6 +44,10 @@ It mentions the `Seatac Airport` and the second search also revealed something r
 Matching the correct coords also took a while as the coordinates of seatac airport i.e. `47.4484° N, 122.3086° W` or (`47.449201670709826, -122.30672855323793`) directly don't match even at 3 decimal places.
 
 I tried again the search view and went as close to the runway as possible for the grey plane. 
+
+My teammate found this document which helped a lot to find the exact location where plane was.
+
+![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/cdfd22a3-fcf0-46fc-9f18-77bc9c295165)
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/d949d3d8-1d56-434c-8c22-f4ca90187eda)
 
