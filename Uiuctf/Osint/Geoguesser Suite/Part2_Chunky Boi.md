@@ -45,7 +45,7 @@ Matching the correct coords also took a while as the coordinates of seatac airpo
 
 I tried again the search view and went as close to the runway as possible for the grey plane. 
 
-My teammate found this document which helped a lot to find the exact location where plane was.
+My teammate found this document from government [website](https://www.faa.gov/air_traffic/flight_info/aeronav/acf/media/Presentations/14-02-RD286_SEA_Airport%20Diagram.pdf) which helped a lot to find the exact location where plane was.
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/cdfd22a3-fcf0-46fc-9f18-77bc9c295165)
 
@@ -60,6 +60,6 @@ Hence, the final flag is
 ---
 
 Thank you  
-***ckc9759**
+***ckc9759***
 
 
