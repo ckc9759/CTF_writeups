@@ -36,6 +36,9 @@ So next, one can notice there a sign board in original image which allows inters
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/bca85dcc-9712-49c0-a9b0-7b88bc82f981)
 
+Using [Geospy AI](https://geospy.web.app/), we got a similiar result but we needed the street name.
+
+![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/c6511f0e-351c-4f7d-929d-0bd8104d4865)
 
 Searching on Google earth, ([LINK](https://earth.google.com/web/@42.34795704,-71.06935611,1.89625095a,0d,59.99999999y,251.01081466h,90.06751746t,0r/data=IhoKFkFlWHYxM0hJdE11WmJYUlZjSnNGa2cQAjoDCgEw)), I was able to pin point the location as `157 Arlington Street, Boston, Massachusetts`. The glass building and red building on the left of image for confirming the location
 
