@@ -57,6 +57,8 @@ Hence, the final flag is
 
 #### Flag : uiuctf{Boeing C-17A Globemaster III, 47.462, -122.303}
 
+Special mention to my teammate @cha0s who contributed a lot in solving this challenge.
+
 ---
 
 Thank you  
