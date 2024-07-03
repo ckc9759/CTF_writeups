@@ -28,3 +28,22 @@ There is a single playlist on UIUC Chan spotify profile which has three songs.
 
 Searched everything in there but nothing helped, the songs were irrelevant. Nothing on lyrics as they were actual songs.
 
+After spending some time on this challenge, I tried the desktop version of spotify, followed `uiuc chan` and saw their activity.
+
+Finally, there was some lead to this challenge. A playlist was mentioned named `songs for train lovers` and there was our flag. It took a lot of time to figure this out
+as it wasn't a direct approach.
+
+![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/43d59d5c-2d03-4ae0-9c9c-47669897f48f)
+
+The fact that it is only accessible to desktop version made it a bit harder and time taking.
+
+#### Flag : uiuctf{7rU1Y_50N65_0F_7H3_5UMM3r_432013}
+
+Special mention to `@cha0s` who helped in solving this challenge
+
+---
+
+Thank you  
+***ckc9759***
+
+
