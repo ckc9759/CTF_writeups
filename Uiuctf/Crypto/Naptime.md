@@ -1,10 +1,15 @@
 ### Naptime
 
 ---
+<br />
 
+> ## Description:
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/e83fe43a-1f7f-4dd5-a14b-aeffa05ab036)
 
 We're given two files.
+<br />
+
+> ## Attachments:
 
 ```py
 #pub.txt
@@ -108,6 +113,9 @@ if __name__ == "__main__":
 '''Analyzing the code and the given public key, we can observe it's performing some kind of encryption. After searching on google and with chatGPT for a while, it comes out to be
 `Merkle-Hellman knapsack cryptosystem` '''.
 ```
+<br />
+
+> ## Approach:
 
 **Merkle-Hellman knapsack cryptosystem** is an old cryptosystem which already has been broken. We've the public key with us and we need to figure out the plaintext from that. My first approach was
 to find the parameters `b`, `pi`, `M`, `W` but it can't be found in linear time so I left that approach.
@@ -123,6 +131,9 @@ I cloned the github in my system and supplied the public keys in the `tester.py`
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/75b35b3b-31df-4ecc-8f1b-0b6938267cf5)
 
 I tried this initially as well but it failed as I need to decrypt every block of cipher individually and then concatenate it.
+<br />
+
+> ## Final Solve:
 
 ```py
 #tester.py
@@ -154,6 +165,9 @@ test_attack('Hello') # Any random string as we're not testing the attack script 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/1e19c498-7b2a-4d1b-bf34-509ef41a007b)
 
 #### Final flag : uiuctf{i_g0t_sleepy_s0_I_13f7_th3_fl4g}
+<br />
+
+> ## Alternate approach:
 
 Alternatively, we can just bruteforce the flag with a character set. We know the flag is formed from ascii characters, we encrypt every character in `n` bits binary string format and check if the encyption matches our
 ciphertext `ct1`, if it matches, the character at that particular index is correct so we concatenate it !
