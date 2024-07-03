@@ -57,6 +57,10 @@ I searched the wiki and found that the it was the 2nd line.
 
 After that, it was all gmaps with transit on to find the exact location.
 
+The one thing which helped cut short the whole line was the fact that the whole line is almost underground and only a chunk is elevated part which we need.
+
+![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/85d38314-1b5b-431a-8fb5-f5d45e275dbf)
+
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/1cd2e91b-4c69-4d47-9ca9-05032a6cb5ed)
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/ad1942e5-9ae4-4cb4-a6dc-6c602dcceb78)
 
