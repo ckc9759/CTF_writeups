@@ -130,6 +130,8 @@ Hence, the optimal input to server would be `0,1,0,1,0,1,0,1,0` which can be mat
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/4b854ca8-a952-44c5-9a13-376bd082d355)
 
+Refer to this [Script](https://github.com/ckc9759/CTF_resources/blob/main/CRYPTO/RSA/Different%20attacks/Known%20factors%20attack/readme.md) which works when a factor of RSA is known !
+
 #### Flag : uiuctf{h4rd_w0rk_&&_d3t3rm1n4t10n}
 
 ---
