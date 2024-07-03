@@ -1,12 +1,18 @@
 ### Determined
 
 ---
+<br />
+
+> ## Description:
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/4984f183-ea8a-469c-80ea-d77b9dc89370)
 
 This looks like a matrix based cryptography question.
 
-We're given 3 files here.
+We're given 3 files here.  
+<br />
+
+> ## Attachments:
 
 ```py
 #server.py
@@ -100,6 +106,9 @@ n = 1587946367007529227812759264761941178567577256046803909491647781508697643260
 e = 65535
 c = 72186625991702159773441286864850566837138114624570350089877959520356759693054091827950124758916323653021925443200239303328819702117245200182521971965172749321771266746783797202515535351816124885833031875091162736190721470393029924557370228547165074694258453101355875242872797209141366404264775972151904835111
 ```
+<br />
+
+> ## Approach:
 
 It is a `RSA` question and we're given the public keys `n`,`e` with the ciphertext `c`. I tried `factordb` as well as `ecm` of sage cell to factor n but both of them failed.
 I then started looking at the `server.py`.
@@ -125,6 +134,9 @@ I got this hint from description `shortened by 50% if one throws the matrices ou
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/f7c08c86-4fdb-4fcc-80f2-2a8c0a3d395c)
 
+<br />
+
+> ## Final Solve:
 If we visualize our matrix, we can see that it's possible to get the q isolated if the right diagonal entries are 1s and rest are 0s.
 Hence, the optimal input to server would be `0,1,0,1,0,1,0,1,0` which can be matched with the matrix indices, all entries become zero except the last one and hence, q can be extracted.
 
