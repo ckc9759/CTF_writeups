@@ -1,4 +1,4 @@
-![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/02174ceb-0ed2-4423-8dc6-1b6aa1a1e1be)### UIUC CHAN SUITE
+### UIUC CHAN SUITE
 
 ---
 
