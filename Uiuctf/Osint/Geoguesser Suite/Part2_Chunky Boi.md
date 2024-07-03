@@ -1,15 +1,21 @@
 ### Geoguesser Suite
 
 ---
+<br />
 
+> ## Description:
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/97e12899-3000-4dc9-897a-d5cfe098e627)  
 
 This was the second challenge of the `Geoguesser Suite` from UIUCTF 2024.  
+<br />
 
+> ## Attachments:
 Chal.jpg  
   
-![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/9eae498f-045b-4cb0-959d-4680ee9ca741)  
+![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/9eae498f-045b-4cb0-959d-4680ee9ca741) 
+<br />
 
+> ## Approach:
 It seems to be an airport where two planes are visible to us. Directly searching with google lens doesn't reveal anything.
 
 If we zoom in on the grey coloured aircraft, we can observe it's number to be `77182` and the top letters to be `AMC` or something close. The other plane has a human figure printed on it's tail so my first approach was to find these two planes separately.
@@ -39,7 +45,6 @@ Searching on [Geospy AI](https://geospy.web.app/) gave a similiar thing so it wa
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/be381001-bfc5-4212-896b-913b8f812f95)
 
-
 It mentions the `Seatac Airport` and the second search also revealed something related to Seattle. To check it's right, I further searched for `seatac airport boeing c-17 77182` and got a youtube video related to this which confirms the surrounding areas as seen from the picture.
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/3da7aee5-24cf-4b08-b8a4-e13c04a646b1)
@@ -49,7 +54,9 @@ It mentions the `Seatac Airport` and the second search also revealed something r
 Matching the correct coords also took a while as the coordinates of seatac airport i.e. `47.4484° N, 122.3086° W` or (`47.449201670709826, -122.30672855323793`) directly don't match even at 3 decimal places.
 
 I tried again the search view and went as close to the runway as possible for the grey plane. 
+<br />
 
+> ## Final Solve:
 My teammate found this document from government [website](https://www.faa.gov/air_traffic/flight_info/aeronav/acf/media/Presentations/14-02-RD286_SEA_Airport%20Diagram.pdf) which helped a lot to find the exact location where plane was.
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/cdfd22a3-fcf0-46fc-9f18-77bc9c295165)
