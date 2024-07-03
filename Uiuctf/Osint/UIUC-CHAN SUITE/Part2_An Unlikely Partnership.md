@@ -1,11 +1,15 @@
 ### UIUC-CHAN SUITE
 
 ---
+<br />
 
+> ## Description:
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/0fee7494-3a1e-483c-a69e-7b10e8b89d67)
 
 This was the second challenge of the 3 challenges in the UIUC-CHAN SUITE. So, we're supposed to find some user profile in this part to get the flag as mentioned in description : `See if you can figure out who.` 
+<br />
 
+> ## Approach:
 Continuing from where we left,we get back to the threads profile of `LISA`, there's a linkedin account mentioned over there so we hop on to that !
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/3fec0d69-1d41-4db9-93d7-3545c2e7efe6)
@@ -16,7 +20,9 @@ Nothing substantial over there, read the about for hints, the banner and the thu
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/9307150a-1407-42cc-aa71-b78ccdec760b)
 
+<br />
 
+> ## Final Solve:
 After few minutes of scrolling, I went down to `skills` section where an endorsement was there.
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/554bfb9e-577c-4cfa-9e6e-8fd044a5e1d9)
@@ -26,7 +32,9 @@ The name says `UIUC Chan` and looks like the right directiion as the ctf also st
 `About` section of UIUC Chan reveals the flag to us.
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/8c0253d9-3df7-45a8-9438-d65bae31cf85)
+<br />
 
+> ## Alternate approach:
 Alternatively, UIUC Chan profile could be found from google dorking as well !
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/3ccbbfc1-fd2a-4dd3-91d2-0163b85e7b33)
