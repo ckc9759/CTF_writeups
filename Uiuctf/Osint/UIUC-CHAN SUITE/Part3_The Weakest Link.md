@@ -1,11 +1,15 @@
 ### UIUC CHAN SUITE
 
 ---
+<br />
 
+> ## Description:
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/64738a84-b9c7-4489-80f1-87dec9530309)
 
 This was the third part of UIUC CHAN SUITE from **UIUCTF 2024**.
+<br />
 
+> ## Approach:
 It talks about a public spotify account where the flag could be hidden and also mention of another business partner or maybe UIUC Chan again as in last part.
 
 Continuing again from where we left, we reach again to the linkedin account of [UIUC CHAN](https://www.linkedin.com/in/uiuc-chan/).
@@ -27,7 +31,9 @@ The same profile pic is there so we know we're doing fine.
 There is a single playlist on UIUC Chan spotify profile which has three songs.
 
 Searched everything in there but nothing helped, the songs were irrelevant. Nothing on lyrics as they were actual songs.
+<br />
 
+> ## Final Solve:
 After spending some time on this challenge, I tried the desktop version of spotify, followed `uiuc chan` and saw their activity.
 
 Finally, there was some lead to this challenge. A playlist was mentioned named `songs for train lovers` and there was our flag. It took a lot of time to figure this out
