@@ -123,7 +123,9 @@ The public keys `p` and `q` are also a part of our Matrix `M`. If we can somehow
 I altered parts of code to see the output, for test purpose, I took p=11,q=22,r=33.
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/fe899b28-e6a0-45a2-8ea7-f339391c3d28)
+<br />
 
+> ## Working:
 I printed all the current values in every iteration when all the entries supplied to the server.py was 1s.
 
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/3ea9d593-8678-4c79-adb8-d5a6220bb186)
