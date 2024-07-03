@@ -1,11 +1,16 @@
 ### X Marked the Spot
 
 ---
+<br />
 
+> ## Description:
 ![image](https://github.com/ckc9759/CTF_writeups/assets/95117634/dde3c728-eb89-420f-a0bc-9b19dde4b476)
 
 This seems to be a beginner level challenge as mentioned from the description, we're provided two files.
 
+<br />
+
+> ## Attachments:
 ```py
 public.py
 from itertools import cycle
@@ -28,6 +33,9 @@ X6.
 U5BHPCGK
 ```
 
+<br />
+
+> ## Approach:
 It looks like our flag is xored with a key of length 8. `ct = bytes(x ^ y for x, y in zip(flag, cycle(key)))`
 Since XOR operation is reversible, We need to find the key to xor the ciphertext and get back our flag (plaintext).
 
@@ -35,6 +43,9 @@ Flag format in the ctf was `uiuctf{` which is 7 character long, hence we can fin
 
 We open our file `ct` in bytes format `rb` and xor it with b'uiuctf{' (`known plaintext attack`)
 
+<br />
+
+> ## Final Solve:
 ```py
 from itertools import cycle
 import string
